@@ -28,8 +28,8 @@ void setup() {
 
 void loop() {
   if(Serial.available()>0){
-     if(c == '\n' || c == '\r') return;
      char c=Serial.read();
+     if(c == '\n' || c == '\r') return;
      if(step == 0 && c == InputSequence[0]){
         step = 1;
      }else if (step == 1 && c == InputSequence[1]){
