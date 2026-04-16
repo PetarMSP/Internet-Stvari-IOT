@@ -1,0 +1,3 @@
+Laboratorijska vezba 1 na Arduino ploci Mega 2560 napisati kod tako da kada upisemo sa testature odredjenu sekvencu od 3 karaktera 
+led dioda se pali i gasi naizmenicno na po pola sekunde,a drugi put kada detekutuje tu sekvencu isto ona se potpuno ugasi i to radi tako
+naizmenicno svaki put kada se unese dobra sekvenca.
