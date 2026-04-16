@@ -1,3 +1,2 @@
-Laboratorijska vezba 1 na Arduino ploci Mega 2560 napisati kod tako da kada upisemo sa testature odredjenu sekvencu od 3 karaktera 
-led dioda se pali i gasi naizmenicno na po pola sekunde,a drugi put kada detekutuje tu sekvencu isto ona se potpuno ugasi i to radi tako
-naizmenicno svaki put kada se unese dobra sekvenca.
+Laboratorijska vežba 1 na Arduino Mega 2560 ploči:
+Potrebno je napisati program koji omogućava unos unapred definisane sekvence od tri karaktera putem tastature. Kada se unese ispravna sekvenca, LED dioda počinje da treperi naizmenično u intervalima od 0.5 sekundi. Pri svakom sledećem ispravnom unosu iste sekvence, stanje LED diode se menja – ako je bila aktivna i treperi, prelazi u stanje potpunog gašenja, i obrnuto. Na taj način, svaki ispravan unos sekvence naizmenično menja režim rada LED diode
